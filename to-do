@@ -1,0 +1,93 @@
+for themes, make a nigerian based theme
+a picture depicting unity should be included at bottom right of pages
+check for second background images css, 
+should contain transparent part and light green gradient on white
+In welcome messages include an option to tour the app can be opened at convenience or much later to go through it again
+With updates haave option for full tour or new items tour
+
+for themes, give user option to either apply fill=T/F for infoBox 
+
+In help tabsets FAQ, submit and enquiry
+
+logout option sends a link with goodbye page, 
+always request login
+
+a login page on the port that is directed to by server is the my account link,
+
+In settings, ask user how they would like timestamps to look,
+use pretty dates, add 5 mins ago, yesterday, last week etc
+In settings, option to stay login. This option to autofill login data to the login server and click on login automatically. On option select, mention that data in app is sensitive and option is not recommended but available
+
+Ask for feedback after 5 mins on the first time user spend five minutes on app
+Ask for feedback after 10 mins on the first time user spend five minutes on app
+Ask for feedback after 15 mins on the first time user spend five minutes on app
+Again still in the same script as a different item,
+Ask for feedback after 10 uses
+
+
+Blog with financial professionals,
+set up sign up process on main website
+can post via whatsapp
+
+
+Contents
+
+Bills
+- Utility
+- Business,
+- etc, let user be able to specify
+
+... bills due in ... dashboard
+notifications at time interval in settings
+
+mark as paid, overdue
+
+Set targets progess shown on dashboard
+
+Ask user at the end of the day to update data from whatsapp
+
+Spending habits by category, dashboard
+
+Spending tab, budget
+
+Permission from banks to update bank account to track,
+make API to get data and update user account
+advice from professionals, as pro feature
+professionals are available for hire from blog
+ratings enabled
+
+On dashboard show summary from all linked accounts
+Used tabbed boxes for people with more than one account
+Example with Personal and Business account
+
+Linking accounts done from profile
+
+On dashboard, pull feed from followed blogs in a small box
+
+Checkboxes for expenses with suggestions, users also able to input items not on the list 
+
+from dashboard, generate summary report between date ranges 
+
+In budgets, show fees, unusual spending, over budget, bill reminders
+
+In budgets, have sort of a homepage, income page, expenses page
+
+Expenses text appear in a different colour
+
+Plan ahead for one time expenses like a home or car and save towards it and track that, vacation, treat yourself
+
+Links on where to apply for loans on main website
+
+
+Insurance
+
+Couple accounts
+
+Business accounts with multiple user access and other features, paid service
+
+
+
+
+
+
+
